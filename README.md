@@ -22,18 +22,18 @@ Skills Applied:
 
 Key Insights:
 
-1.) Total bicycles sold increased by +16.1% while net sales increased by +$0.97M or +40.7% versus last year.
+=> Total bicycles sold increased by +16.1% while net sales increased by +$0.97M or +40.7% versus last year.
 
-2.) Trek brand net sales increased from +$1.1M to +$2.1M resulting in YoY growth of +$0.99M or 87%.
+=> Trek brand net sales increased from +$1.1M to +$2.1M resulting in YoY growth of +$0.99M or 87%.
 
-3.) Total discounts increased $110K YoY while profit margin remained unchanged sitting at 90% YoY.
+=> Total discounts increased $110K YoY while profit margin remained unchanged sitting at 90% YoY.
 
-4.) Total customers increased by 59 YoY. However, the total number of customers retained was only 13 and lost was 612 customers while gaining 671 new customers.
+=> Total customers increased by 59 YoY. However, the total number of customers retained was only 13 and lost was 612 customers while gaining 671 new customers.
 
 Recommendations:
 
-1.) Trek brand sales have shown strong YoY growth - Consider leveraging promotional campaigns to continue to drive YoY growth.
+=> Trek brand sales have shown strong YoY growth - Consider leveraging promotional campaigns to continue to drive YoY growth.
 
-2.) Profit margin remains unchanged YoY - Continue to monitor profit margin and net sales by discount category to ensure any new discount strategies are not dilutive.
+=> Profit margin remains unchanged YoY - Continue to monitor profit margin and net sales by discount category to ensure any new discount strategies are not dilutive.
 
-3.) Significant high number of lost customers YoY - Reach out to customers to collect information on overall experience to gain insights and better understand why they left. After completing information collection analyze the information and develop a strategy to win back lost customers.
+=> Significant high number of lost customers YoY - Reach out to customers to collect information on overall experience to gain insights and better understand why they left. After completing information collection analyze the information and develop a strategy to win back lost customers.
