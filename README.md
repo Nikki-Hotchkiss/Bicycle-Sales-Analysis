@@ -1,39 +1,44 @@
 # Bicycle-Sales-Analysis
 
-I am excited to share my first end-to-end data analytics project exploring and analyzing bicycle sales data from 2016 through 2017!
+🚴 Excited to share my first end-to-end data analytics project!
 
-Goal: To apply the knowledge obtained through DataCamp’s SQL and PowerBI courses and develop a visualization that highlights actionable insights intended to support strategic decision making.
+📅 Analyzing bicycle sales data from 2016–2017 using SQL & PowerBI
 
-Tools Utilized: 
+💡 Goal: Apply skills gained through DataCamp’s SQL and PowerBI courses to deliver insights and drive strategic decision-making.
 
-=>DataLab – AI-powered data notebook used
+🛠️ Tools & Technologies:
 
-=>Microsoft SQL Server/ T-SQL – Relational database management system / querying language used
+•	DataLab: AI-powered data notebook
 
-=>PowerBI – Visualization tool used
+•	Microsoft SQL Server / T-SQL: Data querying
 
-Skills Applied:
+•	PowerBI: Visualization & dashboard creation
 
-=>SQL Fundamentals – Applying fundamental SQL techniques including joins, aggregates, filtering, and window functions
+📈 Skills Applied:
 
-=> PowerBI – Applying fundamental PowerBI techniques importing data, cleaning data, filtering data, editing interactions, and using DAX functions
+•	SQL: Joins, aggregates, filters, window functions
 
-=> Business-sense – Providing summary of key insights and recommendations
+•	PowerBI: Data cleaning, editing interactions, DAX formulas
 
-Key Insights:
+•	Business acumen: Insightful summary & recommendations
 
-=> Total bicycles sold increased by +16.1% while net sales increased by +$0.97M or +40.7% versus last year.
+📊 Key Insights:
 
-=> Trek brand net sales increased from +$1.1M to +$2.1M resulting in YoY growth of +$0.99M or 87%.
+•	🚲 Total bicycles sold increased by 16.1%, with net sales rising by $0.97M (40.7%) YoY
 
-=> Total discounts increased $110K YoY while profit margin remained unchanged sitting at 90% YoY.
+•	🔥 Trek brand sales nearly doubled to $2.1M, up 87% YoY
 
-=> Total customers increased by 59 YoY. However, the total number of customers retained was only 13 and lost was 612 customers while gaining 671 new customers.
+•	💸 Discounts increased by $110K, yet profit margin remained steady at 90%
+	
+•	👥 While 671 new customers joined, 612 were lost—only 13 retained
 
-Recommendations:
+🧠 Recommendations:
 
-=> Trek brand sales have shown strong YoY growth - Consider leveraging promotional campaigns to continue to drive YoY growth.
+•	Amplify Trek’s growth through targeted campaigns
 
-=> Profit margin remains unchanged YoY - Continue to monitor profit margin and net sales by discount category to ensure any new discount strategies are not dilutive.
+•	Monitor impact of discounts to protect margins
 
-=> Significant high number of lost customers YoY - Reach out to customers to collect information on overall experience to gain insights and better understand why they left. After completing information collection analyze the information and develop a strategy to win back lost customers.
+•	Conduct customer outreach to understand churn and develop retention strategy
+
+🎯 Takeaway: This project sharpened my technical and analytical toolkit while strengthening my strategic mindset. Excited to keep learning and solving real-world business problems through data!
+
