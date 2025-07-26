@@ -1,5 +1,11 @@
 # Bicycle-Sales-Analysis
 
+Welcome! I am a Senior Data Analyst with 7+ years in analytics. Passionate about turning data into strategy and actionable insight.
+
+Connect with me on LinkedIn: http://www.linkedin.com/in/nikki-hotchkiss-mba
+
+View my resume: https://github.com/Nikki-Hotchkiss/Bicycle-Sales-Analysis/blob/main/Nikki_Hotchkiss_Resume_2025.docx
+
 🚴 Excited to share my first end-to-end data analytics project!
 
 📅 Analyzing bicycle sales data from 2016–2017 using SQL & PowerBI
